@@ -6,4 +6,5 @@
 [fthcesur](https://fthcesur.blogspot.com/2019/10/yapay-zeka.html),
 [nurigokdogan](https://nurigokdogan.blogspot.com/2019/10/yapay-zeka.html?m=1),[nurdamlaninblogu](https://nurdamlaninblogu.blogspot.com/2019/10/yapay-zekaya-giris.html),
 [nurdamlaninblogu](https://nurdamlaninblogu.blogspot.com/2019/10/yapay-zeka-hakknda-genel-arastrmalar.html),
-[yukselbeyza](https://yukselbeyza.blogspot.com/p/blog-page.html)
+[yukselbeyza](https://yukselbeyza.blogspot.com/p/blog-page.html),
+[sedefmantar]https://sedefmantar.blogspot.com/2019/10/yapay-zeka-nedir-yapay-zeka-insan-gibi_24.html
